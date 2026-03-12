@@ -1,4 +1,4 @@
-# SAYARI VAPT Scanner
+# CHUNGUZA VAPT Scanner
 ## Project Introduction
 
 
